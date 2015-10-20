@@ -15,6 +15,6 @@ Jagnm
 
 Lt02wifi
 ---------------------------------------------
-*MaxiCM Beta 1 (Working)
+* MaxiCM Beta 1 (Working)
 
 END, please add more homework if like you :)
