@@ -1,4 +1,4 @@
-# homework
+# ROM's status.
 A simple readme with homeworks of MaxiCM :)
 
 Janice
